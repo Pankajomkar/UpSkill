@@ -1,1 +1,1 @@
-This is a web based application for updating/learning any skill by the best approach.
+This is a web application which is used to learn/update a skill by providing all the best possible ways and approaches.
